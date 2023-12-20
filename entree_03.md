@@ -1,20 +1,18 @@
-# Entrée 3
-## Plan de carrière
+Présentation
 
-### Présentation
-Parlez de vous. 
+Je m'appelle Emmanuel j'ai 17 ans j'aime faire des montages (vidéos/photos), la photographie, le jeu vidéo et regarder des vidéos.
+Intérêts dans le domaine
 
-### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+l'audio, car c'est essential dans la plupart des domaines multimédias, Web 1, car ça permet de créer des sites sur ton projet multimédia et Photographie et montages vidéos car je fais ça au quotidien.
+Emplois qui vous intéressent
 
-### Emplois qui vous intéressent
-Nommez deux emplois.
+Monteur pour des films au cinéma concepteur de jeux vidéos
+Identification
 
-### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Je m'identifie à Proton, car j'aime la modernité en respectant mes valeurs et mes ambitions. Me sentir en sécurité est aussi important pour moi.
+Dans 5 ans
 
-### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Rentrer sur le marché du travail au cinéma potentiellement
+Projets
 
-### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Un projet que j'aime faire est travailler sur mon court-métrage que je sors une saison par année (même si c'est pas le meilleur scénario j'aime ça). J'aimerais aussi créer mon propre site internet pour mes médias et tous mettre au même endroit (mes vidéos, blogs, etc.)
