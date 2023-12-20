@@ -1,18 +1,15 @@
-# Entrée 5
-## Rétrospective de l'examen (1 à 2 lignes par question)
+Points forts de la préparation à l'examen
 
-### Points forts de la préparation à l'examen
-Nommer deux points forts de votre préparation à l'examen. 
+Je vais étudier mes notes prisent dans mon cours, pour pouvoir les apprendre le plus par coeur possible.
+Points à améliorer
 
-### Points à améliorer
-Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
+Je veux améliorer ma mémoire à me rappeler des notions apprises dans le cours, et à clarifier mes notes.
+Gestion du temps
 
-### Gestion du temps
-Comment avez-vous géré votre temps lors de l'examen?
+J'ai bien gérer mon temps, mais j'aurais pu en prendre plus pour me réviser.
+Outils et ressources
 
-### Outils et ressources
-Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+J'ai relis mes notes que j'ai prisent durant l'examen, et ceux fournis par le professeur.
+Difficultés
 
-### Difficultés
-Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
-
+Il y avait des questions dont je n'étais pas préparé, donc qui m'ont fait perdre quelques points.
