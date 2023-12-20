@@ -1,20 +1,19 @@
-# Entrée 4
-## Décrire 5 emplois du domaine du multimédia
-Choisissez des emplois qui pourraient vous intéresser. 
+Décrire 5 emplois du domaine du multimédia
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+Choisissez des emplois qui pourraient vous intéresser. /Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.
+Emploi 1 - Concepteur de jeux vidéo
 
-### Emploi 2 - Identification
-4 à 5 lignes
+Ce métier consiste à concevoir un jeu vidéo. ces personnes peuvent travailler à distance en télé-travail et en bureau, dépendemment de selon ses tâches du jours. Il faut avoir beaucoup d'imagination, car développer les mondes, l'univers dans lequel ça se passe, créer l'histoire globale et que ça soit original. Il faut aussi être très sociale, car c'est le concepteur qui doit guider les autres membres de l'équipe à la bonne création des niveaux, des modèles, des décors et de la programmation. Il faut donc avoir des connaissances dans tous les domaines pour assurer le bon fonctionnement du concepteur à aider ses coéquipiers à aller dans le droit chemin. Ce qui m'intéresse est la création qu fait aller l'imagination des concepteurs de jeux vidéo. Ce qui rend le métier moins intéressant pour moi est le fait que je dois savoir programmer, ce qui m'intéresse moins.
+Emploi 2 - Monteur vidéo
 
-### Emploi 3 - Identification
-4 à 5 lignes 
+Le monteur vidéo est celui qui va s'occuper de compiler toutes les informations dans une vidéo. Par exemple, il va décider de la hauteur du son, quand mettre une musique, couper à tel moment une vidéo, mettre des effets visuels et audios, et bien assembler les vidéos aux bon endroits. Ces personnes travaillent principalement à distance, mais peuvent aussi travailler dans un bâtiment extérieur. Il faut cependant avoir un ordinateur avec eux. Pour exercer ce métier, il faut être compétent dans plusieurs domaines du multimédia, tel que l'audio, de l'intégration, les effets spéciaux, la photographie et la vidéographie. Ce qui m'intéresse moins est que c'est beaucoup de temps à passer sur un même projet.
+Emploi 3 - Photographe
 
-### Emploi 4 - Identification
-4 à 5 lignes
+Le photographe, son rôle principale est de prendre des photos. Il peut aussi faire du montage, de l'incrustration et de l'effet. Il peut travailler pour le journalisme, le cinéma, le web, les réseaux sociaux et d'autres domaines du multimédia. Ces personnes peuvent travailler à plusieurs endroits, tel que de la maison, dans un studio ou n'importe où (comme dehors, dans un bâtiment, etc.) Ce qui m'intéresse est que j'adore prendre des photos, et que tu te promènes pour épater les gens et faire les meilleurs photographies au monde. Ce qui m'intéresse moins est qu'il est très compliqué de se faire un nom dans ce milieu très populaire, avec déjà beaucoup de photos publiés chaque jours.
+Emploi 4 - Développeur Web
 
-### Emploi 5 - Identification
-4 à 5 lignes
+C'est lui qui va créer un site internet pour une entreprise, un créateur ou pour lui-même. Il doit concevoir un site comfortable, facile à utiliser et intuitif. Ces personnes travaillent principalement de chez eux, mais aussi dans un bureau. Il faut savoir comment coder, principalement en HTML ou CSS, mais aussi d'autres codes sont possibles d'être appris. Ce qui m'intéresse est que tu peux créer des sites innovateurs qui seront consultés par beaucoup de personnes. Ce qui m'intéresse moins est que il faut savoir coder, et ce n'est pas quelque chose que j'aime faire.
+Emploi 5 - Modeleur 3D
 
+Il doit concevoir des modèles 3D pour des jeux vidéos, des films, des applications, des réseaux sociaux ou des animations. Ils peuvent travailler de chez eux ou dans un bureau. Il faut être bon en dessin, savoir comment marche les applications et faire de la manipulation. Ce qui m'intéresse est que tu peux manipuler beaucoup de matériaux numériques, comme les os des personnages, des illustrations 3D et des dessins numériques. Ce qui m'intéresse moins est que je ne suis pas très bon en dessin, donc je ne vais pas avoir trop de plaisir à faire les modèles 3D.
 
